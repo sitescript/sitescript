@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Crxa</h1>
+<h1 align="center">Hi 👋, I'm Colm / Crxa</h1>
 <h3 align="center">Casual Developer from Ireland</h3>
-<p><img align="left" src="https://lanyard.kyrie25.me/api/658592832596082688?waveColor=674ea7&waveSpotifyColor=999999&gradient=6420AA-FF3EA5-FF7ED4-FFB5DA" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crxaw&" alt="crxaw" /></p>
+<p><img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=colm2017&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=474747&bar_color_cover=true" /></p>
+<p><img align="center" src="https://lanyard.kyrie25.me/api/658592832596082688?waveColor=000000&waveSpotifyColor=202020&gradient=#000000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crxaw&" alt="Crxa" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crxaw&show_icons=true&locale=en&layout=compact" alt="crxaw" /></p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crxaw" alt="crxaw" /></a> </p>
+
 
 - 🔭 I’m currently working on [HTML + JS Websites](https://github.com/catboys-3/pwareweb)
 
