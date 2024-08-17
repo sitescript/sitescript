@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java + TypeScript**
 
-- 📫 How to reach me **crxa@realrape.online / c@crxaw.tech / helper@hypixel.lol**
+- 📫 How to reach me ** c@crxaw.tech / helper@hypixel.lol / @crxaw.**
 
 
 <h3 align="left">Languages and Tools:</h3>
